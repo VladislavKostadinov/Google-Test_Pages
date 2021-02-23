@@ -1,2 +1,2 @@
-# Web-development
-Web sites, created during a web development course.
+# ExampleGooglePages
+Web pages, created during a web development course.
